@@ -1,0 +1,39 @@
+.papadiv{
+    background-image: url('onboarding.jpg');
+    background-size: cover;
+}
+
+.centor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.loading-animation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 9vh;
+    padding-bottom: 10px;
+  }
+  
+  .animation-frame {
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    animation: imageAnimation 4s infinite steps(1);
+  }
+  
+  @keyframes imageAnimation {
+    0%, 100% {
+      background-image: url('../assets/anim/img1.svg');
+    }
+    20% {
+      background-image: url('../assets/anim/img2.svg');
+    }
+    40% {
+      background-image: url('../assets/anim/img3.svg');
+    }
+
+  }
+  

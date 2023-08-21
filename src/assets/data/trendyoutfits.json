@@ -1,0 +1,364 @@
+{
+    "occasions": {
+      "Wedding": {
+        "female": [
+          {
+            "Outfit": "Elegant Floral Maxi Dress",
+            "Accessories": [
+              "Pearl Drop Earrings",
+              "Crystal Clutch",
+              "Delicate Bracelet"
+            ],
+            "Footwear": "Strappy Heels"
+          },
+          {
+            "Outfit": "Lace A-line Dress with Embellishments",
+            "Accessories": [
+              "Chandelier Earrings",
+              "Sparkling Clutch",
+              "Statement Ring"
+            ],
+            "Footwear": "High-Heeled Sandals"
+          },
+          {
+            "Outfit": "Off-Shoulder Mermaid Gown",
+            "Accessories": [
+              "Diamond Stud Earrings",
+              "Glittering Clutch",
+              "Sleek Necklace"
+            ],
+            "Footwear": "Stiletto Pumps"
+          }
+        ],
+        "male": [
+          {
+            "Outfit": "Classic Black Suit with Bowtie",
+            "Accessories": [
+              "Polished Dress Shoes",
+              "Silk Pocket Square",
+              "Cufflinks"
+            ],
+            "Footwear": "Oxford Shoes"
+          },
+          {
+            "Outfit": "Navy Blue Tuxedo",
+            "Accessories": [
+              "Black Bowtie",
+              "Dress Watch",
+              "Tuxedo Shoes"
+            ],
+            "Footwear": "Patent Leather Shoes"
+          },
+          {
+            "Outfit": "Gray Three-Piece Suit",
+            "Accessories": [
+              "Patterned Tie",
+              "Leather Belt",
+              "Dress Socks"
+            ],
+            "Footwear": "Brogues"
+          }
+        ]
+      },
+      "Beach Party": {
+        "female": [
+          {
+            "Outfit": "Flowy Boho Maxi Dress",
+            "Accessories": [
+              "Beaded Hoop Earrings",
+              "Straw Tote Bag",
+              "Shell Bracelet"
+            ],
+            "Footwear": "Barefoot Sandals"
+          },
+          {
+            "Outfit": "Tie-Dye Romper with Fringe",
+            "Accessories": [
+              "Colorful Sunglasses",
+              "Raffia Crossbody Bag",
+              "Bangle Set"
+            ],
+            "Footwear": "Flat Sandals"
+          },
+          {
+            "Outfit": "Off-Shoulder Crop Top and High-Waisted Shorts",
+            "Accessories": [
+              "Layered Necklaces",
+              "Beach Hat",
+              "Beaded Anklets"
+            ],
+            "Footwear": "Flip-Flops"
+          }
+        ],
+        "male": [
+          {
+            "Outfit": "Linen Button-Down Shirt and Khaki Shorts",
+            "Accessories": [
+              "Straw Fedora Hat",
+              "Sunglasses",
+              "Canvas Tote"
+            ],
+            "Footwear": "Espadrilles"
+          },
+          {
+            "Outfit": "Printed Short-Sleeve Shirt and Swim Trunks",
+            "Accessories": [
+              "Sporty Watch",
+              "Beach Towel",
+              "Sunscreen"
+            ],
+            "Footwear": "Slip-On Sandals"
+          },
+          {
+            "Outfit": "Casual Linen Pants and T-Shirt",
+            "Accessories": [
+              "Woven Bracelet",
+              "Visor Cap",
+              "Sunglasses"
+            ],
+            "Footwear": "Slide Sandals"
+          }
+        ]
+      },
+      "Club Party": {
+        "female": [
+          {
+            "Outfit": "Sequin Bodycon Dress with Open Back",
+            "Accessories": [
+              "Statement Choker Necklace",
+              "Glitter Clutch",
+              "Dangling Earrings"
+            ],
+            "Footwear": "Stiletto Heels"
+          },
+          {
+            "Outfit": "Metallic Mini Skirt and Crop Top Set",
+            "Accessories": [
+              "Belted Waist Bag",
+              "Hoop Earrings",
+              "Cuff Bracelet"
+            ],
+            "Footwear": "Platform Sandals"
+          },
+          {
+            "Outfit": "Shimmering Jumpsuit with Deep V-neck",
+            "Accessories": [
+              "Chic Clutch",
+              "Statement Ring",
+              "Sparkling Hairpin"
+            ],
+            "Footwear": "Strappy Stiletto Sandals"
+          }
+        ],
+        "male": [
+          {
+            "Outfit": "Slim-Fit Sequin Blazer and Black Pants",
+            "Accessories": [
+              "Velvet Bowtie",
+              "Pocket Square",
+              "Dress Watch"
+            ],
+            "Footwear": "Patent Dress Shoes"
+          },
+          {
+            "Outfit": "Graphic Print Shirt and Leather Pants",
+            "Accessories": [
+              "Chunky Chain Necklace",
+              "Sunglasses",
+              "Studded Bracelet"
+            ],
+            "Footwear": "High-Top Sneakers"
+          },
+          {
+            "Outfit": "Moto Jacket, Skinny Jeans, and Boots",
+            "Accessories": [
+              "Studded Belt",
+              "Leather Gloves",
+              "Cool Sunglasses"
+            ],
+            "Footwear": "Biker Boots"
+          }
+        ]
+      },
+      "Interview": {
+        "female": [
+          {
+            "Outfit": "Tailored Blazer and Pencil Skirt",
+            "Accessories": [
+              "Pearl Stud Earrings",
+              "Structured Tote Bag",
+              "Classic Watch"
+            ],
+            "Footwear": "Pointed-Toe Heels"
+          },
+          {
+            "Outfit": "White Button-Up Shirt and Trousers",
+            "Accessories": [
+              "Minimalist Necklace",
+              "Leather Briefcase",
+              "Elegant Bracelet"
+            ],
+            "Footwear": "Low-Heeled Pumps"
+          },
+          {
+            "Outfit": "A-line Dress with Belt",
+            "Accessories": [
+              "Stylish Earrings",
+              "Professional Handbag",
+              "Statement Ring"
+            ],
+            "Footwear": "Block Heel Shoes"
+          }
+        ],
+        "male": [
+          {
+            "Outfit": "Classic Navy Suit and Tie",
+            "Accessories": [
+              "Polished Dress Shoes",
+              "Dress Watch",
+              "Cufflinks"
+            ],
+            "Footwear": "Oxford Shoes"
+          },
+          {
+            "Outfit": "Charcoal Gray Blazer and Dress Pants",
+            "Accessories": [
+              "Leather Belt",
+              "Pocket Square",
+              "Briefcase"
+            ],
+            "Footwear": "Brogues"
+          },
+          {
+            "Outfit": "Crisp White Shirt and Textured Slacks",
+            "Accessories": [
+              "Silk Tie",
+              "Classic Watch",
+              "Leather Portfolio"
+            ],
+            "Footwear": "Classic Loafers"
+          }
+        ]
+      },
+      "Daily": {
+        "female": [
+          {
+            "Outfit": "High-Waisted Skinny Jeans and Knit Sweater",
+            "Accessories": [
+              "Chunky Scarf",
+              "Crossbody Bag",
+              "Layered Necklaces"
+            ],
+            "Footwear": "Sneakers"
+          },
+          {
+            "Outfit": "Casual T-Shirt Dress with Belt",
+            "Accessories": [
+              "Sunglasses",
+              "Bucket Bag",
+              "Delicate Bracelet"
+            ],
+            "Footwear": "Slip-On Sneakers"
+          },
+          {
+            "Outfit": "Flowy Midi Skirt and Graphic Tee",
+            "Accessories": [
+              "Statement Earrings",
+              "Backpack",
+              "Stacked Bracelets"
+            ],
+            "Footwear": "Sandals"
+          }
+        ],
+        "male": [
+          {
+            "Outfit": "Slim-Fit Jeans and Crewneck Sweater",
+            "Accessories": [
+              "Beanie Hat",
+              "Leather Backpack",
+              "Leather Bracelet"
+            ],
+            "Footwear": "Casual Boots"
+          },
+          {
+            "Outfit": "Short-Sleeve Button-Down Shirt and Chinos",
+            "Accessories": [
+              "Aviator Sunglasses",
+              "Canvas Tote Bag",
+              "Minimalist Watch"
+            ],
+            "Footwear": "Sneakers"
+          },
+          {
+            "Outfit": "Casual Joggers and Hoodie",
+            "Accessories": [
+              "Sports Cap",
+              "Crossbody Sling Bag",
+              "Sporty Watch"
+            ],
+            "Footwear": "Athletic Sneakers"
+          }
+        ]
+      },
+      "Casual": {
+        "female": [
+          {
+            "Outfit": "Denim Jacket, Graphic Tee, and Leggings",
+            "Accessories": [
+              "Baseball Cap",
+              "Crossbody Bag",
+              "Layered Necklaces"
+            ],
+            "Footwear": "Sneakers"
+          },
+          {
+            "Outfit": "Athleisure Set: Hoodie and Joggers",
+            "Accessories": [
+              "Sporty Visor",
+              "Backpack",
+              "Sporty Watch"
+            ],
+            "Footwear": "Athletic Sneakers"
+          },
+          {
+            "Outfit": "Flowy Sundress and Denim Jacket",
+            "Accessories": [
+              "Straw Hat",
+              "Tassel Earrings",
+              "Beach Tote"
+            ],
+            "Footwear": "Sandals"
+          }
+        ],
+        "male": [
+          {
+            "Outfit": "Graphic Print T-Shirt and Ripped Jeans",
+            "Accessories": [
+              "Baseball Cap",
+              "Crossbody Bag",
+              "Layered Necklaces"
+            ],
+            "Footwear": "Sneakers"
+          },
+          {
+            "Outfit": "Casual Pullover Sweater and Chinos",
+            "Accessories": [
+              "Knit Beanie",
+              "Canvas Tote Bag",
+              "Sporty Watch"
+            ],
+            "Footwear": "Lace-Up Boots"
+          },
+          {
+            "Outfit": "Comfortable Shorts and Relaxed Fit T-Shirt",
+            "Accessories": [
+              "Bucket Hat",
+              "Sunglasses",
+              "Woven Bracelet"
+            ],
+            "Footwear": "Slip-On Sandals"
+          }
+        ]
+      }
+    }
+  }

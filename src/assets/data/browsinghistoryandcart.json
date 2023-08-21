@@ -1,0 +1,121 @@
+{
+    "users": [
+      {
+        "User ID": 1,
+        "User Name": "Meera",
+        "Frequently Viewed Items": [
+          {
+            "Item ID": 1403,
+            "Category": "Jeans",
+            "Product Name": "High Waist Skinny Jeans",
+            "Brand": "Zara"
+          },
+          {
+            "Item ID": 1405,
+            "Category": "Skirts",
+            "Product Name": "Denim Mini Skirt",
+            "Brand": "Zara"
+          }
+        ],
+        "Cart": [
+          {
+            "Item ID": 1404,
+            "Category": "Blouses",
+            "Product Name": "Printed Peasant Top",
+            "Brand": "Zara"
+          },
+          {
+            "Item ID": 1605,
+            "Category": "Sunglasses",
+            "Product Name": "Round Frame Shades",
+            "Brand": "Ray-Ban"
+          }
+        ]
+      },
+      {
+        "User ID": 2,
+        "User Name": "Aisha",
+        "Frequently Viewed Items": [
+          {
+            "Item ID": 1601,
+            "Category": "Accessories",
+            "Product Name": "Earrings",
+            "Brand": "Forever 21"
+          },
+          {
+            "Item ID": 1603,
+            "Category": "Dresses",
+            "Product Name": "Summer Maxi Dress",
+            "Brand": "H&M"
+          }
+        ],
+        "Cart": [
+          {
+            "Item ID": 1604,
+            "Category": "Accessories",
+            "Product Name": "Bucket Hat",
+            "Brand": "Forever 21"
+          }
+        ]
+      },
+      {
+        "User ID": 4,
+        "User Name": "Preeti",
+        "Frequently Viewed Items": [
+          {
+            "Item ID": 2001,
+            "Category": "Blouses",
+            "Product Name": "Silk Blouse",
+            "Brand": "Van Heusen"
+          }
+        ],
+        "Cart": [
+          {
+            "Item ID": 2003,
+            "Category": "Skirts",
+            "Product Name": "Pleated Midi Skirt",
+            "Brand": "Van Heusen"
+          }
+        ]
+      },
+      {
+        "User ID": 5,
+        "User Name": "Vikram",
+        "Frequently Viewed Items": [
+          {
+            "Item ID": 2301,
+            "Category": "Footwear",
+            "Product Name": "Sneakers",
+            "Brand": "Adidas"
+          }
+        ],
+        "Cart": [
+          {
+            "Item ID": 2302,
+            "Category": "Shorts",
+            "Product Name": "Athletic Training Shorts",
+            "Brand": "Adidas"
+          }
+        ]
+      },
+      {
+        "User ID": 3,
+        "User Name": "Arjun",
+        "Frequently Viewed Items": [
+          {
+            "Item ID": 1901,
+            "Category": "Footwear",
+            "Product Name": "Running Shoes",
+            "Brand": "Adidas"
+          },
+          {
+            "Item ID": 1904,
+            "Category": "Accessories",
+            "Product Name": "Gym Duffle Bag",
+            "Brand": "Nike"
+          }
+        ],
+        "Cart": []
+      }
+    ]
+  }
